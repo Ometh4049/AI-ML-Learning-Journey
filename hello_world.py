@@ -1,1 +1,1 @@
-print("HEllow World")
+print("HEllow Buddy")
